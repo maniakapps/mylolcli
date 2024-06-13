@@ -1,4 +1,4 @@
-Riot API Summoner Information Retrieval
+MyLOL CLI Summoner Information Retrieval
 =======================================
 
 This project is a Python module for interacting with the Riot API to retrieve summoner information. It provides functions to retrieve summoner information by various identifiers, such as summoner name, account ID, PUUID, and summoner ID.
